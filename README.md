@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIML,Blockchain
 - 🌱 I’m currently learning Python,Dsa and Tensorflow
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bhattarailalit5@gmail.com
+- 📫 How to reach me bhattarailalit5@gmail.com /www.linkedin.com/in/lalitbhattarai/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
