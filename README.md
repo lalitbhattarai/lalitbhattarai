@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lalit Bhattrai
-- 👀 I’m interested in AIML,Blockchain
-- 🌱 I’m currently learning Python,Dsa and Tensorflow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AIML,Deep Learning 
+- 🌱 I’m currently learning Python,DSA and Pytorch
+- 💞️ I’m looking to collaborate on  some DeepLearning projects 
 - 📫 How to reach me bhattarailalit5@gmail.com /www.linkedin.com/in/lalitbhattarai/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
